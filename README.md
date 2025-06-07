@@ -23,14 +23,14 @@ This project provides an interactive GUI-based web app (built with Tkinter) to d
 ---
 
 ## 🗂️ Project Structure
-
+ ```bash
 ml_website/
 ├── ram_price1.csv
 │── matches22.csv
 │── Gold Price Prediction1.csv
 ├── ml_main.py
 └── README.md
-
+```
 - `data/`: Folder containing example CSV datasets
 - `ml_main.py`: Entry point of the application,Handles Tkinter GUI logic and layout and  Helper functions for data handling and model training
 
